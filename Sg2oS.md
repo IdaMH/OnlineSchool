@@ -9,16 +9,16 @@ Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden :smile:
 **... erstmal aufräumen!**
 
 - Weg sollte: Was du aktuell nicht brauchst oder was ablenkt (z.B. leere Süßigkeitenpackungen, zu viel Deko, andere Projekte).
-- In der Nähe: Bücher, Hefte und weitere Schulmaterialien.
-- Direkt auf dem Tisch: Stifte, aktuell verwendetes Material, evtl. weitere Materialien wie Block/Rechner/Handy, ggf. Schreibtischlampe/Uhr/Trinken.
+- In der Nähe: Bücher:blue_book:, Hefte:ledger: und weitere Schulmaterialien:pencil2::straight_ruler::books:.
+- Direkt auf dem Tisch: Stifte:pencil2:, aktuell verwendetes Material:pencil2::straight_ruler::books:, evtl. weitere Materialien wie Block:notebook_with_decorative_cover:/Rechner:computer:/Handy:calling:, ggf. Schreibtischlampe:bulb:/Uhr:alarm_clock:/Trinken:cocktail:.
 
-### Rechner
+### Rechner:computer:
 
-**... entweder ausprobieren, Eltern/Freunde fragen oder eine Anleitung suchen:**
+**... entweder ausprobieren, Eltern:family:/Freunde:dancers: fragen:interrobang: oder eine Anleitung suchen:**
 
 - Installiere wichtige Programme, soweit nicht vorhanden (z.B. Browser, Office, Dateiverwaltung, PDF-Viewer).
-- Lege Symbole für diese Programme an, damit du sie leicht finden und öffnen kannst.
-- Erstelle einen Ordner für die Schule, am besten mit einem Unterordner für jedes Fach.
+- Lege Symbole:o: für diese Programme an, damit du sie leicht finden und öffnen kannst.
+- Erstelle einen Ordner für die Schule:school:, am besten mit einem Unterordner für jedes Fach.
 - Sorge falls möglich für einen Internetzugang an deinem Arbeitsplatz.
 - Richte dir deinen Browser ein (z.B. Startseite/Lesezeichen für Suchmaschine, Messenger, E-Mail, Wörterbücher, Online-Lexika; Speicherort für Downloads).
 - Richte dir weitere Programme so ein, dass sie dich bei der Arbeit unterstützen (z.B. Ton für neue Nachricht an-/ausstellen, Standardeinstellungen für den Drucker).
