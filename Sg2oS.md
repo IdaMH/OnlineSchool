@@ -98,4 +98,4 @@ Oft merkt man daran, dass man Fragen hat oder Fehler macht, dass Lernen stattfin
 
 - Welches sind zentrale Punkte bei der Musterlösung?
 - Gleiche diese mit deiner Lösung ab. Gibt es bei deiner Lösung fehlende oder zusätzliche Punkte?
-- Ergänze fehlende Punkte und überlege, wie du nächstes Mal ähnliche Aufgaben besser bearbeiten kannst.
+- Ergänze fehlende Punkte:black_circle: und überlege:persevere:, wie du nächstes Mal ähnliche Aufgaben:muscle: besser:+1: bearbeiten kannst.
