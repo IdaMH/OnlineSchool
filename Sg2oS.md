@@ -18,9 +18,9 @@ Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden :smile:
 
 - Installiere wichtige Programme, soweit nicht vorhanden (z.B. Browser, Office, Dateiverwaltung, PDF-Viewer).
 - Lege Symbole:o: für diese Programme an, damit du sie leicht finden und öffnen kannst.
-- Erstelle einen Ordner für die Schule:school:, am besten mit einem Unterordner für jedes Fach.
+- Erstelle einen Ordner für die Schule:school:, am besten mit einem Unterordner für jedes Fach:books:.
 - Sorge falls möglich für einen Internetzugang an deinem Arbeitsplatz.
-- Richte dir deinen Browser ein (z.B. Startseite/Lesezeichen für Suchmaschine, Messenger, E-Mail, Wörterbücher, Online-Lexika; Speicherort für Downloads).
+- Richte dir deinen Browser ein (z.B. Startseite/Lesezeichen:bookmark: für Suchmaschine, Messenger, E-Mail, Wörterbücher, Online-Lexika; Speicherort für Downloads).
 - Richte dir weitere Programme so ein, dass sie dich bei der Arbeit unterstützen (z.B. Ton für neue Nachricht an-/ausstellen, Standardeinstellungen für den Drucker).
 - Recherchiere und lerne wichtige Shortcuts (z.B. Strg + C für Kopieren, Strg + V für Einfügen, Alt + Tab für Programm wechseln).
 - Lerne 10-Finger-System.
